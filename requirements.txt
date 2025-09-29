@@ -1,0 +1,11 @@
+pandas
+scikit-learn
+matplotlib
+ipykernel
+imbalanced-learn
+xgboost
+joblib
+fastapi
+pydantic
+uvicorn
+streamlit
